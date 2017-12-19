@@ -1,0 +1,1 @@
+This is a cryptocurrency ticker built with React that is based on [this excellent tutorial](https://sabe.io/tutorials/getting-started-with-react).
